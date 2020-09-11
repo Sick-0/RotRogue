@@ -10,7 +10,7 @@ learning the rot library and making my own Rogue like
 https://sick-0.github.io/RotRogue/
 
 ## progress
-- [x] init
-- [x] part one (hello world)
+- [x] Init
+- [x] Part one (hello world)
 - [X] Managing Game state (screens)
 - [ ] Map generation
