@@ -12,4 +12,5 @@ https://sick-0.github.io/RotRogue/
 ## progress
 - [x] init
 - [x] part one (hello world)
-- [ ] Managing Game state
+- [X] Managing Game state (screens)
+- [ ] Map generation
