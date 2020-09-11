@@ -6,6 +6,10 @@ http://www.codingcookies.com/2013/04/01/building-a-roguelike-in-javascript-part-
 ## goal
 learning the rot library and making my own Rogue like
 
+## hosting
+https://sick-0.github.io/RotRogue/
+
 ## progress
 - [x] init
-- [ ] part one
+- [x] part one (hello world)
+- [ ] Managing Game state
