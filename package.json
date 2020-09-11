@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Sick-0/RotRogue/issues"
   },
-  "homepage": "https://github.com/Sick-0/RotRogue#readme"
+  "homepage": "https://github.com/Sick-0/RotRogue#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "rot-js": "^2.1.4"
+  }
 }
